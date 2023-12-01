@@ -10,3 +10,6 @@ $ git rm -r --cached
 ```
 
 Add (remove) the changed files, using `git add .` in the root directory. Followed by using git commit as usual and push or don't. Whatever floats your boat.
+
+# Changes (git bot)
+Making changes on remote
